@@ -70,3 +70,13 @@ void right()
     // 오른쪽 모터
     digitalWrite(ENB, LOW);
 }
+
+// 멈춤
+void stop()
+{
+    // 왼쪽 모터
+    digitalWrite(ENA, LOW);
+
+    // 오른쪽 모터
+    digitalWrite(ENB, LOW);
+}
