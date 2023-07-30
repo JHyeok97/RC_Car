@@ -10,6 +10,9 @@ RC Car는 **블루투스 통신**으로 원격으로 조종 하고 데이터를 
 [3.개발 환경](#개발-환경)
 
 [4.회로도](#회로도)
+
+[5.결과](#결과)
+
 ## 프로젝트 목적
 - CAN 통신과 블루투스 모듈을 사용하여 자동차 모터를 제어한다.
 
@@ -25,6 +28,7 @@ RC Car는 **블루투스 통신**으로 원격으로 조종 하고 데이터를 
 - 후진 시 특정 거리 이내로 장애물을 만났을 경우 정지
 
 ## 개발 환경
+
  Language : C++
  
  TOOL : VS Code, Arduino IDE
@@ -41,4 +45,42 @@ Sensor : HC-SR04(초음파 센서)
 
 
 ## 회로도
-<img width="396" alt="image" src="https://github.com/JHyeok97/RC_Car/assets/95965218/e62fdd47-752c-4e25-adc3-e1cb157718a5">
+
+</br>
+
+<img width="396" alt="image" src="https://github.com/JHyeok97/RC_Car/assets/92672351/e27a2a4d-f7b2-4904-a598-9dd60651c093">
+
+</br>
+
+
+
+## 결과
+
+<div>
+  
+<img width="396" alt="image" src="https://github.com/JHyeok97/RC_Car/assets/92672351/f63e7a79-0c4e-42d7-9101-3496e03ff60e">
+
+</div>
+
+
+</br>
+
+<div>
+  
+<img width="396" alt="image" src="https://github.com/JHyeok97/RC_Car/assets/92672351/0db341d1-b9e5-4a41-97da-3e238103bc98">
+
+</div>
+
+</br>
+
+<div>
+
+<img width="396" alt="image" src="https://github.com/JHyeok97/RC_Car/assets/92672351/096cb913-db9a-4d5d-ba58-3cfef323b272">
+
+</div>
+
+
+
+
+
+
